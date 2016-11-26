@@ -44,3 +44,25 @@ C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadza
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor CF.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Fireweed.jpeg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Honda CB.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Kawasaki H2.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Kawasaki.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Bashan.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Kondor.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Suzuki Z4.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Varia 125.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Yamaha.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll.config
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.xml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.pdb

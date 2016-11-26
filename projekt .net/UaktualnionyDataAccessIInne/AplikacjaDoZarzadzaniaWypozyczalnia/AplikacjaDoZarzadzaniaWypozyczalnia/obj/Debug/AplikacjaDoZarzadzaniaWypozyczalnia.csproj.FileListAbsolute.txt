@@ -154,3 +154,70 @@ C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadza
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.application
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.exe
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Wypożycz.exe.config
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\AplikacjaDoZarzadzaniaWypozyczalnia.csprojResolveAssemblyReference.cache
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\ReservationWindow.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\App.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz_Content.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz_MarkupCompile.cache
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz_MarkupCompile.lref
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\AddVehicleWindow.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\EditWindow.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\MainWindow.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\RateWindow.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\ReservationForm.g.cs
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\App.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\AddVehicleWindow.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\EditWindow.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\MainWindow.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\RateWindow.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\ReservationForm.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\ReservationWindow.baml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.g.resources
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\AplikacjaDoZarzadzaniaWypozyczalnia.Properties.Resources.resources
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\AplikacjaDoZarzadzaniaWypozyczalnia.csproj.GenerateResource.Cache
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.exe
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\motor1.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\motor2.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\quad1.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\quad2.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Motor CF.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Motor Fireweed.jpeg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Motor Honda CB.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Motor Kawasaki H2.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Motor Kawasaki.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Quad Bashan.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Quad Kondor.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Quad Suzuki Z4.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Quad Varia 125.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Images\Quad Yamaha.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Wypożycz.exe.manifest
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Wypożycz.application
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Wypożycz.exe
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Wypożycz.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\DataAccess.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Domain.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\EntityFramework.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\Domain.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\DataAccess.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\EntityFramework.xml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.exe.manifest
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.application

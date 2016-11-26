@@ -12,3 +12,7 @@ C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\bin\D
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb

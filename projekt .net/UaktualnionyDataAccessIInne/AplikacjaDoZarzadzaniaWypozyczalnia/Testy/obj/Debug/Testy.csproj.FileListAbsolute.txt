@@ -32,3 +32,25 @@ C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadza
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor CF.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Fireweed.jpeg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Honda CB.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Kawasaki H2.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Kawasaki.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Bashan.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Kondor.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Suzuki Z4.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Varia 125.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Yamaha.jpg
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Testy.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Testy.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.pdb
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.xml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb

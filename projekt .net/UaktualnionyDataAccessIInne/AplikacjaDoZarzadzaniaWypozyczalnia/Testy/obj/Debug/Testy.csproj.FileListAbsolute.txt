@@ -1,0 +1,34 @@
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Testy.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Testy.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor CF.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Fireweed.jpeg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Honda CB.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Kawasaki H2.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor Kawasaki.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Bashan.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Kondor.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Suzuki Z4.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Varia 125.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Quad Yamaha.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Testy.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Testy.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb

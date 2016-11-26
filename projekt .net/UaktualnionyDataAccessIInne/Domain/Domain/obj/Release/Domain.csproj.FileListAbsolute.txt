@@ -1,0 +1,9 @@
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\Domain.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\Domain.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\Domain.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\Domain.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.pdb

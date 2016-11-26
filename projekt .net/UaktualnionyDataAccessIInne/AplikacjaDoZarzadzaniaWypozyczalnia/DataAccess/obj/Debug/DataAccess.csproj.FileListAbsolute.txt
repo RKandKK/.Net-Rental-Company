@@ -1,0 +1,46 @@
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.pdb
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor CF.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Fireweed.jpeg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Honda CB.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Kawasaki H2.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Motor Kawasaki.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Bashan.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Kondor.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Suzuki Z4.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Varia 125.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Images\Quad Yamaha.jpg
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\Domain.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.pdb

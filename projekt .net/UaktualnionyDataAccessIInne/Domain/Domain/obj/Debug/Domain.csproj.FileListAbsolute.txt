@@ -1,0 +1,14 @@
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb
+C:\Users\Szprota\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
+C:\Users\asd\Desktop\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
+C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb

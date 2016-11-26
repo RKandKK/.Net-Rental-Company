@@ -1,0 +1,60 @@
+﻿<Window x:Class="AplikacjaDoZarzadzaniaWypozyczalnia.ReservationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplikacjaDoZarzadzaniaWypozyczalnia"
+        mc:Ignorable="d"
+        Title="Reservation" Height="600" Width="300" MinHeight="600" MaxHeight="600" MinWidth="300" MaxWidth="300" x:Name="ReservWindow">
+    <Window.Resources>
+        <local:WidthConverter x:Key="WidthConverter"></local:WidthConverter>
+        <local:ColorConverter x:Key="ColorConverter"></local:ColorConverter>
+        <Style TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+        </Style>
+        <Style TargetType="RowDefinition">
+            <Setter Property="Height" Value="20"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="{Binding ActualHeight, ElementName=ReservWindow, Converter={StaticResource WidthConverter}, ConverterParameter='0,4'}"></RowDefinition>
+            <RowDefinition Height="{Binding ActualHeight, ElementName=ReservWindow, Converter={StaticResource WidthConverter}, ConverterParameter='0,6'}"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="0"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Text="{Binding Name, StringFormat= 'Nazwa: \{0\}'}" Grid.Row="0"></TextBlock>
+                <TextBlock Text="{Binding Type, StringFormat='Rodzaj: \{0\}'}" Grid.Row="1"></TextBlock>
+                <TextBlock Text="{Binding PricePerHour, StringFormat= 'Cena za godzinę jazdy: \{0\}zł'}" Grid.Row="2"></TextBlock>
+                <TextBlock Text="{Binding FuelConsumption, StringFormat='Spalanie paliwa: \{0\}l/100km'}" Grid.Row="3"></TextBlock>
+                <TextBlock Text="{Binding DriversLicense, StringFormat='Wymagane prawo jazdy: \{0\}'}" Grid.Row="4"></TextBlock>
+                <TextBlock Text="{Binding Vmax, StringFormat='Prędkość maksymalna: \{0\}km/h'}" Grid.Row="6"></TextBlock>
+                <TextBlock Text="{Binding TrunkCapacity, StringFormat='Pojemność schowka: \{0\}l'}" Grid.Row="7"></TextBlock>
+                <TextBlock Text="{Binding Rating, StringFormat='Ocena użytkowników: \{0\}/5'}" Grid.Row="8"></TextBlock>
+                <Grid Grid.Row="9" Height="50">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition Width="90"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button Height="25" Width="90" Grid.Column="0" Click="Edytuj_Click">Edytuj</Button>
+                    <Button x:Name="buttonRate" Grid.Column="1" Height="25" Width="90" Click="buttonRate_Click" Content="Oceń"/>
+                    <Button Height="25" Width="90" Grid.Column="2" Click="Wynajmij">Wynajmij</Button>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Image Source="{Binding Image}" Grid.Row="0"></Image>
+    </Grid>
+</Window>

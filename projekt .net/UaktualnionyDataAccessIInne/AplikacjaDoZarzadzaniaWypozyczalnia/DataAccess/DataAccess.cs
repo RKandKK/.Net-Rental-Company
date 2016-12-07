@@ -13,10 +13,10 @@ namespace DataAccess
     public class RentalBaseContext : DbContext
     {
         public DbSet<Vehicle> Vehicles { get; set; }
-        public DbSet<Client> Clients { get; set; }
+        public DbSet<User> Users { get; set; }
         public DbSet<Reservation> Reservations { get; set; }
 
-        public ClientRepository ClientRepository { get; private set; }
+        public UserRepository UserRepository { get; private set; }
         public VehicleRepository VehicleRepository { get; private set; }
         public ReservationsRepository ReservationRepository { get; private set; }
         
@@ -25,7 +25,7 @@ namespace DataAccess
 
 
             Database.SetInitializer(new DropCreateDatabaseIfModelChanges<RentalBaseContext>());
-            ClientRepository = new ClientRepository(Clients,this);
+            UserRepository = new UserRepository(Users,this);
             ReservationRepository = new ReservationsRepository(Reservations,this);
             VehicleRepository = new VehicleRepository(Vehicles, this);
 

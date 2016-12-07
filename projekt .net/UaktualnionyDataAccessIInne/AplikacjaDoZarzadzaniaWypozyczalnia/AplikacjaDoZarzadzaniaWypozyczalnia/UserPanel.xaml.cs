@@ -26,12 +26,12 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
             List<Reservation> list = new List<Reservation>();
             list.Add(new Reservation(
                 new Vehicle() {Name = "Pojazd 1"}, 
-                new Client(), 
+                new User(), 
                 new DateTime(2016,12,5),
                 new DateTime(2016,12,6)));
             list.Add(new Reservation(
                 new Vehicle() {Name = "Pojazd 2"},
-                new Client(), 
+                new User(), 
                 new DateTime(2014,7,11),
                 new DateTime(2014,7,12)));
             listView.ItemsSource = list;

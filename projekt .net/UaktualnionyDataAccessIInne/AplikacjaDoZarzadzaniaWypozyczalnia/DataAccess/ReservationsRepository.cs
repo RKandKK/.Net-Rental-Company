@@ -24,10 +24,10 @@ namespace DataAccess
             RentalBase.SaveChanges();
         }
 
-        /// <summary> Removes last reservation of this vehicle by this client</summary> 
-        public void RemoveReservation(Client c, Vehicle v)
+        /// <summary> Removes last reservation of this vehicle by this User</summary> 
+        public void RemoveReservation(User c, Vehicle v)
         {
-            var reservations = ReservationsOfVehicleByClient(c, v).ToList();
+            var reservations = ReservationsOfVehicleByUser(c, v).ToList();
             reservations.Sort((r1, r2) => r1.Till.Hour - r2.Till.Hour);
             Reservation lastReservation = reservations.First();
             if (lastReservation != null)
@@ -44,7 +44,7 @@ namespace DataAccess
         }
 
         /// <summary> Returns true (and add vehicle) if it is not occupied</summary> 
-        public bool AddReservation(Vehicle v, Client c, DateTime since, DateTime till)
+        public bool AddReservation(Vehicle v, User c, DateTime since, DateTime till)
         {
             if (IsVehicleOccupiedInPeriodOfTime(v, since, till)) // occupied in that time
                 return false;
@@ -71,58 +71,58 @@ namespace DataAccess
         }
 
 
-        /// <summary> All reservations of Vehicle by this Client </summary> 
-        public IList<Reservation> ReservationsOfVehicleByClient(Client c, Vehicle v)
+        /// <summary> All reservations of Vehicle by this User </summary> 
+        public IList<Reservation> ReservationsOfVehicleByUser(User c, Vehicle v)
         {
-            return ReservationsDbSet.Where(r => r.Client.Pesel == c.Pesel && r.Vehicle.Name == v.Name).ToList();
+            return ReservationsDbSet.Where(r => r.User.Pesel == c.Pesel && r.Vehicle.Name == v.Name).ToList();
         }
 
-        /// <summary> All reservations done by this client (expired reservations too) </summary> 
-        public IList<Reservation> ReservationsOfClient(Client c)
+        /// <summary> All reservations done by this User (expired reservations too) </summary> 
+        public IList<Reservation> ReservationsOfUser(User c)
         {
-            return ReservationsDbSet.Where(r => r.Client == c).ToList();
+            return ReservationsDbSet.Where(r => r.User == c).ToList();
         }
 
-        /// <summary> All reservations done by this client (expired reservations too) </summary> 
-        public IList<Reservation> ReservationsOfClient(string pesel)
+        /// <summary> All reservations done by this User (expired reservations too) </summary> 
+        public IList<Reservation> ReservationsOfUser(string pesel)
         {
-            return ReservationsDbSet.Where(r => r.Client.Pesel == pesel).ToList();
+            return ReservationsDbSet.Where(r => r.User.Pesel == pesel).ToList();
         }
 
-        /// <summary> How many reservations by client with this pesel in database </summary> 
-        public int AmountOfReservationsOfClient(string pesel)
+        /// <summary> How many reservations by User with this pesel in database </summary> 
+        public int AmountOfReservationsOfUser(string pesel)
         {
-            return ReservationsOfClient(pesel).Count;
+            return ReservationsOfUser(pesel).Count;
         }
 
-        /// <summary> How many reservations by this client </summary> 
-        public int AmountOfReservationsOfClient(Client c)
+        /// <summary> How many reservations by this User </summary> 
+        public int AmountOfReservationsOfUser(User c)
         {
-            return ReservationsOfClient(c).Count;
+            return ReservationsOfUser(c).Count;
         }
 
-        /// <summary> Is client with this pesel in database </summary> 
-        public bool IsClientInDatabase(string pesel)
+        /// <summary> Is User with this pesel in database </summary> 
+        public bool IsUserInDatabase(string pesel)
         {
-            return ReservationsOfClient(pesel).Count > 0;
+            return ReservationsOfUser(pesel).Count > 0;
         }
 
-        /// <summary> Is this client  in database </summary> 
-        public bool IsClientInDatabase(Client c)
+        /// <summary> Is this User  in database </summary> 
+        public bool IsUserInDatabase(User c)
         {
-            return ReservationsOfClient(c).Count > 0;
+            return ReservationsOfUser(c).Count > 0;
         }
 
-        /// <summary> How many client spent on all reservations (total) </summary> 
-        public int AllClientReservationsCost(Client c)
+        /// <summary> How many User spent on all reservations (total) </summary> 
+        public int AllUserReservationsCost(User c)
         {
-            return ReservationsOfClient(c).Sum(r => r.Cost);
+            return ReservationsOfUser(c).Sum(r => r.Cost);
         }
 
-        /// <summary> How many client with this pesel spent on all reservations (total)  </summary> 
-        public int AllClientReservationsCost(string pesel)
+        /// <summary> How many User with this pesel spent on all reservations (total)  </summary> 
+        public int AllUserReservationsCost(string pesel)
         {
-            return ReservationsOfClient(pesel).Sum(r => r.Cost);
+            return ReservationsOfUser(pesel).Sum(r => r.Cost);
         }
 
         /// <summary> All reservations of vehicle (ever)  </summary> 

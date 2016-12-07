@@ -36,11 +36,11 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
         {
             if (verification())
             {
-                Client klient;
-                if ((klient=vm.ClientRepository.ClientsWithPesel(textBoxPESEL.Text)) != null)
+                User klient;
+                if ((klient=vm.UserRepository.UsersWithPesel(textBoxPESEL.Text)) != null)
                 {
                     IList<Reservation> rezerwacje;
-                    if ((rezerwacje = vm.ReservationsRepository.ReservationsOfVehicleByClient(klient, vm.SelectedVehicle)).Count>0)
+                    if ((rezerwacje = vm.ReservationsRepository.ReservationsOfVehicleByUser(klient, vm.SelectedVehicle)).Count>0)
                     {
                         if (rezerwacje.Where(x => x.Vehicle.Name == vm.SelectedVehicle.Name).ToList().Count >= 1)
                         {

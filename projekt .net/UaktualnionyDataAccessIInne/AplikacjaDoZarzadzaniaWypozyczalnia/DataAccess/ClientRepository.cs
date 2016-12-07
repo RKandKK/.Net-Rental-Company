@@ -10,71 +10,71 @@ using Domain;
 
 namespace DataAccess
 {
-    public class ClientRepository : Repository
+    public class UserRepository : Repository
     {
-        private DbSet<Client> ClientsDbSet;
+        private DbSet<User> UsersDbSet;
 
-        public ClientRepository(DbSet<Client> dbSet, RentalBaseContext rbc) : base(rbc)
+        public UserRepository(DbSet<User> dbSet, RentalBaseContext rbc) : base(rbc)
         {
-            ClientsDbSet = dbSet;
+            UsersDbSet = dbSet;
         }
 
 
 
-        /// <summary> Remove client from database </summary> 
-        private void RemoveClient(Client client)
+        /// <summary> Remove User from database </summary> 
+        private void RemoveUser(User User)
         {
-            ClientsDbSet.Remove(client);
+            UsersDbSet.Remove(User);
             RentalBase.SaveChanges();
 
         }
 
-        /// <summary> Remove client with this pesel from database </summary> 
-        public void RemoveClient(string pesel)
+        /// <summary> Remove User with this pesel from database </summary> 
+        public void RemoveUser(string pesel)
         {
-            Client client = ClientsWithPesel(pesel);
-            if (client != null)
-                RemoveClient(client);
+            User User = UsersWithPesel(pesel);
+            if (User != null)
+                RemoveUser(User);
 
         }
 
 
-        /// <summary> Create client and add to database </summary> 
-        public void AddClient(string name, string surname, string pesel)
+        /// <summary> Create User and add to database </summary> 
+        public void AddUser(string name, string surname, string pesel)
         {
-            if(!IsClientInDatabase(pesel))
+            if(!IsUserInDatabase(pesel))
             {
-                ClientsDbSet.Add(new Client() { Name = name, Surname = surname, Pesel = pesel });
+                UsersDbSet.Add(new User() { Name = name, Surname = surname, Pesel = pesel });
                 RentalBase.SaveChanges();
             }
             
         }
 
-        /// <summary> Add client to database </summary> 
-        public void AddClient(Client newClient)
+        /// <summary> Add User to database </summary> 
+        public void AddUser(User newUser)
         {
-            AddClient(newClient.Name, newClient.Surname, newClient.Pesel);
+            AddUser(newUser.Name, newUser.Surname, newUser.Pesel);
         }
 
-        /// <summary> Returns client with this pesel or null </summary> 
-        public Client ClientsWithPesel(string pesel)
+        /// <summary> Returns User with this pesel or null </summary> 
+        public User UsersWithPesel(string pesel)
         {
-            var client = ClientsDbSet.Where(c => c.Pesel == pesel).ToList();
-            if (client.Count == 0)
+            var User = UsersDbSet.Where(c => c.Pesel == pesel).ToList();
+            if (User.Count == 0)
                 return null;
 
-            return client.First();
+            return User.First();
         }
 
-        /// <summary> If client with this name and surname in database </summary> 
-        public bool IsClientInDatabase(string name, string surname)
+        /// <summary> If User with this name and surname in database </summary> 
+        public bool IsUserInDatabase(string name, string surname)
         {
-            return ClientsDbSet.Count(c => c.Name == name && c.Surname == surname) > 0;
+            return UsersDbSet.Count(c => c.Name == name && c.Surname == surname) > 0;
         }
-        /// <summary> If client with this pesel in database </summary> 
-        public bool IsClientInDatabase(string pesel)
+        /// <summary> If User with this pesel in database </summary> 
+        public bool IsUserInDatabase(string pesel)
         {
-            return ClientsDbSet.Count(c => c.Pesel == pesel) > 0;
+            return UsersDbSet.Count(c => c.Pesel == pesel) > 0;
         }
 
     }

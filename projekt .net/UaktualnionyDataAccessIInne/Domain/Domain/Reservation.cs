@@ -14,17 +14,17 @@ namespace Domain
         
         public virtual Vehicle Vehicle { get; private set; }
 
-        public virtual Client Client { get; private set; }
+        public virtual User User { get; private set; }
 
         public int Cost { get; private set; } // of whole reservation
 
         public DateTime Since { get; private set; } // time since reservation starts
         public DateTime Till { get; private set; } //time till reservation expires
 
-        public Reservation(Vehicle vehicle, Client client, DateTime since, DateTime till)
+        public Reservation(Vehicle vehicle, User User, DateTime since, DateTime till)
         {
             Vehicle = vehicle;
-            Client = client;
+            User = User;
             Since = since;
             Till = till;
 

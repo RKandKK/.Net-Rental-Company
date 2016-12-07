@@ -20,7 +20,7 @@ namespace Testy
         public void RateReservationTest()
         {
             Vehicle veh = new Vehicle();
-            Client cli = new Client();
+            User cli = new User();
             Reservation res = new Reservation(veh,cli,DateTime.Now,DateTime.Now);
             res.RateReservation(4);
             res.RateReservation(3);

@@ -7,15 +7,19 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class Client : Entity
+    public class User : Entity
     {
-        public Client() { }
+        public User() { }
 
         public string Name { get; set; }
 
         public string Surname { get; set; }
 
-        public string Pesel { get; set; }
+        public string Login { get; set; }
+
+        public string Password { get; set; }
+
+        private bool IsAdministrator { get; set; }
 
     }
 }

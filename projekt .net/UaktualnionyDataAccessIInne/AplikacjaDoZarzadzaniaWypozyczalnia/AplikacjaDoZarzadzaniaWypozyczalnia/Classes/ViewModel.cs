@@ -19,7 +19,7 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
         public ViewModel(RentalBaseContext rbc)
         {
             VehicleRepository = rbc.VehicleRepository;
-            ClientRepository = rbc.ClientRepository;
+            UserRepository = rbc.UserRepository;
             ReservationsRepository = rbc.ReservationRepository;
             SearchOptions = new SearchOptions(VehicleRepository);
             OpenAddWindow = new DelegateCommand(x => OpenAddWindowF());
@@ -64,7 +64,7 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
         #region repos
         public ReservationsRepository ReservationsRepository { get; set; }
 
-        public ClientRepository ClientRepository { get; set; }
+        public UserRepository UserRepository { get; set; }
 
         public VehicleRepository VehicleRepository { get; set; }
         #endregion

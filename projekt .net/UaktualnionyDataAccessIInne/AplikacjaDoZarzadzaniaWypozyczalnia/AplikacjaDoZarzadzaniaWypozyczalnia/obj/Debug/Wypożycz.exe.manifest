@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mW+IkikGKig5/ismlEKaJvOPmwTVTEWodEGJ0uTyPNk=</dsig:DigestValue>
+        <dsig:DigestValue>u67J6egMOhY7xBC7PvrDo2w6L1M8EFiaqQ3At7+ok4A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,31 +61,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bSSvhJfNMxqNbATyMGfa7E1mz2CR6fwGOk9c+wu9yeg=</dsig:DigestValue>
+        <dsig:DigestValue>C5JDj7G+VWvbZujXjRJ93zkMKwuZ1+HyR6a5Lf4i1qY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5195984">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5196496">
       <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cJt+VG8T5SIb16tkDPDJFnk9KoohPGyte29tuCQKmdk=</dsig:DigestValue>
+        <dsig:DigestValue>7W69dJBS+QGPZplnGuVGmt7fCGz4sb1CVrvpxOf2/wU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wypożycz.exe" size="1049600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wypożycz.exe" size="1052672">
       <assemblyIdentity name="Wypożycz" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VHGhSfGsQTHXsBVnFPXIO226GwjLyWgclXx3iNZ4TkA=</dsig:DigestValue>
+        <dsig:DigestValue>Y8lsnU6lNzyi0PhPJIQ3JoAKrZAgwyRiOONm9H2Mo/I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

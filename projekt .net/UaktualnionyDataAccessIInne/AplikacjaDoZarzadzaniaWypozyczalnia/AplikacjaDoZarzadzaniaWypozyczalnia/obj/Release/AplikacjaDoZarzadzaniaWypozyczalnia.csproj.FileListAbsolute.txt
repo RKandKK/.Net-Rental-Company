@@ -122,3 +122,73 @@ C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadza
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.application
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.exe
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Wypożycz.exe.config
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.exe
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\motor1.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\motor2.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\quad1.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\quad2.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Motor CF.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Motor Fireweed.jpeg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Motor Honda CB.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Motor Kawasaki H2.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Motor Kawasaki.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Quad Bashan.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Quad Kondor.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Quad Suzuki Z4.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Quad Varia 125.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Images\Quad Yamaha.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Wypożycz.exe.manifest
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Wypożycz.application
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Wypożycz.exe
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Wypożycz.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\DataAccess.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Domain.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\EntityFramework.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\Domain.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\DataAccess.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\AplikacjaDoZarzadzaniaWypozyczalnia.csprojResolveAssemblyReference.cache
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\AddVehicleWindow.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\EditWindow.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\MainWindow.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\RateWindow.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\ReservationForm.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\ReservationWindow.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\App.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz_Content.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz_MarkupCompile.cache
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz_MarkupCompile.lref
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\App.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\AddVehicleWindow.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\EditWindow.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\MainWindow.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\RateWindow.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\ReservationForm.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\ReservationWindow.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.g.resources
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\AplikacjaDoZarzadzaniaWypozyczalnia.Properties.Resources.resources
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\AplikacjaDoZarzadzaniaWypozyczalnia.csproj.GenerateResource.Cache
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.exe.manifest
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\Wypożycz.application
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\LoginWindow.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\LoginWindow.baml
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\UserPanel.g.cs
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Release\UserPanel.baml

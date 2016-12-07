@@ -1,0 +1,32 @@
+﻿<Window x:Class="AplikacjaDoZarzadzaniaWypozyczalnia.UserPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplikacjaDoZarzadzaniaWypozyczalnia"
+        mc:Ignorable="d"
+        Title="UserPanel" Height="300" Width="390.426">
+    <Grid>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="186" Margin="10,37,0,0" VerticalAlignment="Top" Width="362">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="75" Header="Pojazd" DisplayMemberBinding="{Binding Vehicle.Name}"/>
+                    <GridViewColumn Width="70" Header="Od" DisplayMemberBinding="{Binding Since}"></GridViewColumn>
+                    <GridViewColumn Width="70" Header="Do" DisplayMemberBinding="{Binding Till}"></GridViewColumn>
+                    <GridViewColumn Width="75" Header="Koszt" DisplayMemberBinding="{Binding Cost}"></GridViewColumn>
+                    <GridViewColumn Width="70"  Header="Oceń">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Name="Buttonocen" Content="Ocen" Width="68"></Button>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="zmienHasloButton" Content="Zmień hasło" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="134"/>
+        <Button x:Name="AnulujButton" Content="Anuluj" HorizontalAlignment="Left" Margin="239,239,0,0" VerticalAlignment="Top" Width="133"/>
+        <Label x:Name="label1" Content="Moje zamówienia:" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" Width="109" Height="26"/>
+
+    </Grid>
+</Window>

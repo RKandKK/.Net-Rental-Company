@@ -32,3 +32,37 @@ C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadza
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Release\DataAccess.dll
 C:\Users\asd\Desktop\Nowy folder\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Release\DataAccess.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Motor CF.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Motor Fireweed.jpeg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Motor Honda CB.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Motor Kawasaki H2.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Motor Kawasaki.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Quad Bashan.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Quad Kondor.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Quad Suzuki Z4.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Quad Varia 125.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Images\Quad Yamaha.jpg
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\DataAccess.dll.config
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\DataAccess.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Domain.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Domain.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Release\DataAccess.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Release\DataAccess.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll

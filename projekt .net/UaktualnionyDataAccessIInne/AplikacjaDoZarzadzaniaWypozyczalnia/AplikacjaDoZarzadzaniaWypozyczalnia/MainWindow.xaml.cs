@@ -50,6 +50,18 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
             base.OnClosed(e);
 
             Application.Current.Shutdown();
-        }        
+        }
+
+        private void ZalogujButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            LoginWindow lw = new LoginWindow();
+            lw.Show();
+        }
+
+        private void panelButton_Click(object sender, RoutedEventArgs e)
+        {
+            UserPanel up = new UserPanel();
+            up.Show();
+        }
     }
 }

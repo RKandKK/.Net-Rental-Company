@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DmTDUCDfxrB/U2ppZ0FmjLLb6HIgq/SKoaEpa1vcMAc=</dsig:DigestValue>
+        <dsig:DigestValue>u67J6egMOhY7xBC7PvrDo2w6L1M8EFiaqQ3At7+ok4A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>x7jQ8coev1IItXEq+ykEBgSu0sqj9hvJaHlgspacwP0=</dsig:DigestValue>
+        <dsig:DigestValue>C5JDj7G+VWvbZujXjRJ93zkMKwuZ1+HyR6a5Lf4i1qY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,26 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="621264">
-      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ob9snjgg6D9D6fIN19mwozYqkxRvCv4LEzAYXi1RsMs=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wypożycz.exe" size="1050544">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wypożycz.exe" size="1052672">
       <assemblyIdentity name="Wypożycz" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>h9s5+3a4lZDhMellY2mOZWsaA+rqoLhdxVjwl+57QII=</dsig:DigestValue>
+        <dsig:DigestValue>Y8lsnU6lNzyi0PhPJIQ3JoAKrZAgwyRiOONm9H2Mo/I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

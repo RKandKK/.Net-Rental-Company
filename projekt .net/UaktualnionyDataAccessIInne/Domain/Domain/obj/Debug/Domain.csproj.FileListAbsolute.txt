@@ -16,3 +16,24 @@ D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Domain.pdb
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.pdb

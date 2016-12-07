@@ -24,11 +24,15 @@
                 <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Height="20" Margin="44,94,0,0" TextWrapping="Wrap" Text="do" VerticalAlignment="Top" Width="23" RenderTransformOrigin="0.522,0.95"/>
                 <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Height="34" Margin="1,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105"><Run Text="Maksymalne spalanie"/><Run Text=":"/></TextBlock>
                 <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Height="26" Margin="57,158,0,0" TextWrapping="Wrap" Text="l/100km" VerticalAlignment="Top" Width="49"/>
-                <CheckBox x:Name="quadCheckbox" Click="SearchValueChanged" Content="Quad" IsChecked="{Binding SearchOptions.quad, Mode=OneWayToSource, FallbackValue=true}" HorizontalAlignment="Right" VerticalAlignment="Top" RenderTransformOrigin="0.235,3.25" Height="17" Margin="0,33,69,0"/>
+                <CheckBox x:Name="quadCheckbox" Click="SearchValueChanged" Content="Quad" IsChecked="{Binding SearchOptions.quad, Mode=OneWayToSource, FallbackValue=true}" HorizontalAlignment="Right" VerticalAlignment="Top" RenderTransformOrigin="0.235,3.25" Height="17" Margin="0,33,64,0" Width="52"/>
                 <CheckBox x:Name="motoCheckbox" Click="SearchValueChanged"  Content="Motocykl" IsChecked="{Binding SearchOptions.motorcycle, Mode=OneWayToSource, FallbackValue=true}" HorizontalAlignment="Left" Margin="1,55,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.562" Width="68"/>
                 <xctk:IntegerUpDown x:Name="From" ValueChanged="SearchValueChanged" Value="{Binding SearchOptions.minprice, Mode=OneWayToSource, FallbackValue=0}" HorizontalAlignment="Left" Margin="1,93,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.659,0.9"/>
                 <xctk:IntegerUpDown x:Name="To" ValueChanged="SearchValueChanged" Value="{Binding SearchOptions.maxprice, Mode=OneWayToSource, FallbackValue=1000}" HorizontalAlignment="Left" Margin="67,93,0,0" VerticalAlignment="Top"/>
-                <Button x:Name="buttonDodaj" Content="Dodaj pojazd" HorizontalAlignment="Left" Height="52" Margin="1,253,0,0" VerticalAlignment="Top" Width="105" Command="{Binding OpenAddWindow}"/>
+                <Button x:Name="zalogujButton" Content="Zaloguj" HorizontalAlignment="Left" Margin="1,285,0,0" VerticalAlignment="Top" Width="105" Click="ZalogujButton_OnClick"/>
+                <Button x:Name="dodajButton" Content="Dodaj" HorizontalAlignment="Left" Margin="1,260,0,0" VerticalAlignment="Top" Width="105" Command="{Binding OpenAddWindow}"/>
+                <Button x:Name="panelButton" Content="Otworz Panel" HorizontalAlignment="Left" Margin="1,235,0,0" VerticalAlignment="Top" Width="105" RenderTransformOrigin="-0.107,-0.35" Click="panelButton_Click"/>
+                <Rectangle Fill="#000000" Height="4" Margin="1,184,0,0" Stroke="Black" VerticalAlignment="Top" HorizontalAlignment="Left" Width="115"/>
+                <Label x:Name="labelLog" Content="Niezalogowany" HorizontalAlignment="Left" Margin="1,198,0,0" VerticalAlignment="Top" Width="105" Height="32"/>
             </Grid>
         </StackPanel>
         <ListView x:Name="listView" HorizontalAlignment="Right" Height="{Binding ActualHeight, ConverterParameter=1, Converter={StaticResource WidthConverter}, ElementName=MainWin, Mode=OneWay}" VerticalAlignment="Top" ItemsSource="{Binding Vehicles}" SelectedItem="{Binding SelectedVehicle}" MouseDoubleClick="listView_MouseDoubleClick" Grid.Column="2" Margin="0,0,0,-30">

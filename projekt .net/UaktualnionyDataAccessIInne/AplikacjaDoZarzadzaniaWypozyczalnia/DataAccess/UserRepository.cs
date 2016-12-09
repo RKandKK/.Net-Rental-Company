@@ -29,22 +29,21 @@ namespace DataAccess
 
         }
 
-        /// <summary> Remove User with this pesel from database </summary> 
-        public void RemoveUser(string pesel)
+        /// <summary> Remove User with this login from database </summary> 
+        public void RemoveUser(string login)
         {
-            User User = UsersWithPesel(pesel);
+            User User = UsersWithLogin(login);
             if (User != null)
                 RemoveUser(User);
 
         }
-
-
+       
         /// <summary> Create User and add to database </summary> 
-        public void AddUser(string name, string surname, string pesel)
+        public void AddUser(string name, string surname, string login = null, string password = null)
         {
-            if(!IsUserInDatabase(pesel))
+            if(!IsUserInDatabase(login))
             {
-                UsersDbSet.Add(new User() { Name = name, Surname = surname, Pesel = pesel });
+                UsersDbSet.Add(new User(name, surname, login, password) );
                 RentalBase.SaveChanges();
             }
             
@@ -53,17 +52,17 @@ namespace DataAccess
         /// <summary> Add User to database </summary> 
         public void AddUser(User newUser)
         {
-            AddUser(newUser.Name, newUser.Surname, newUser.Pesel);
+            AddUser(newUser.Name, newUser.Surname, newUser.Login, newUser.Password);
         }
 
-        /// <summary> Returns User with this pesel or null </summary> 
-        public User UsersWithPesel(string pesel)
+        /// <summary> Returns User with this login or null </summary> 
+        public User UsersWithLogin(string login)
         {
-            var User = UsersDbSet.Where(c => c.Pesel == pesel).ToList();
-            if (User.Count == 0)
+            var users = UsersDbSet.Where(c => c.Login == login).ToList();
+            if (users.Count == 0)
                 return null;
 
-            return User.First();
+            return users.First();
         }
 
         /// <summary> If User with this name and surname in database </summary> 
@@ -71,10 +70,10 @@ namespace DataAccess
         {
             return UsersDbSet.Count(c => c.Name == name && c.Surname == surname) > 0;
         }
-        /// <summary> If User with this pesel in database </summary> 
-        public bool IsUserInDatabase(string pesel)
+        /// <summary> If User with this login in database </summary> 
+        public bool IsUserInDatabase(string login)
         {
-            return UsersDbSet.Count(c => c.Pesel == pesel) > 0;
+            return UsersDbSet.Count(c => c.Login == login) > 0;
         }
 
     }

@@ -53,11 +53,14 @@ namespace DataAccess
             AddReservation(reservation);
             return true;
         }
+
+        /// <summary> Remove all reservation of vehicle </summary> 
         public void RemoveAllReservationsWithVehicle(Vehicle v)
         {
             List<Reservation> reservations = ReservationsDbSet.Where(r => r.Vehicle.Name == v.Name).ToList();
             ReservationsDbSet.RemoveRange(reservations);
         }
+
         /// <summary> All reservations ever made (in database) </summary> 
         public IList<Reservation> AllReservationsEver()
         {
@@ -70,12 +73,13 @@ namespace DataAccess
             return ReservationsDbSet.Where(r => r.Till > time && r.Since < time).ToList();
         }
 
-
         /// <summary> All reservations of Vehicle by this User </summary> 
         public IList<Reservation> ReservationsOfVehicleByUser(User c, Vehicle v)
         {
-            return ReservationsDbSet.Where(r => r.User.Pesel == c.Pesel && r.Vehicle.Name == v.Name).ToList();
+            return ReservationsDbSet.Where(r => r.User.Login == c.Login && r.Vehicle.Name == v.Name).ToList();
         }
+
+        
 
         /// <summary> All reservations done by this User (expired reservations too) </summary> 
         public IList<Reservation> ReservationsOfUser(User c)
@@ -84,9 +88,9 @@ namespace DataAccess
         }
 
         /// <summary> All reservations done by this User (expired reservations too) </summary> 
-        public IList<Reservation> ReservationsOfUser(string pesel)
+        public IList<Reservation> ReservationsOfUser(string login)
         {
-            return ReservationsDbSet.Where(r => r.User.Pesel == pesel).ToList();
+            return ReservationsDbSet.Where(r => r.User.Login == login).ToList();
         }
 
         /// <summary> How many reservations by User with this pesel in database </summary> 
@@ -161,6 +165,8 @@ namespace DataAccess
 
             return res.ReservationLeft(time);
         }
+
+
         public void RateReservation(Reservation rv, int value)
         {
             rv.RateReservation(value);

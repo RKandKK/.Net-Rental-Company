@@ -11,6 +11,22 @@ namespace Domain
     {
         public User() { }
 
+        public User(string name, string surname)
+        {
+            Name = name;
+            Surname = surname;
+            Login = null;
+            Password = null;
+        }
+
+        public User(string name, string surname, string login, string password)
+        {
+            Name = name;
+            Surname = surname;
+            Login = login;
+            Password = password;
+        }
+
         public string Name { get; set; }
 
         public string Surname { get; set; }

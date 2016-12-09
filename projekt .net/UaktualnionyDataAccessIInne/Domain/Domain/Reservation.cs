@@ -21,10 +21,10 @@ namespace Domain
         public DateTime Since { get; private set; } // time since reservation starts
         public DateTime Till { get; private set; } //time till reservation expires
 
-        public Reservation(Vehicle vehicle, User User, DateTime since, DateTime till)
+        public Reservation(Vehicle vehicle, User user, DateTime since, DateTime till)
         {
             Vehicle = vehicle;
-            User = User;
+            User = user;
             Since = since;
             Till = till;
 

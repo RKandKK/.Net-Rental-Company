@@ -7,14 +7,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Wypożycz.exe.manifest" size="18333">
+    <dependentAssembly dependencyType="install" codebase="Wypożycz.exe.manifest" size="19036">
       <assemblyIdentity name="Wypożycz.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TgmoFZPLl23l05s/kwoOdHd2LyBJ+DbPt+HDzRAf2o8=</dsig:DigestValue>
+        <dsig:DigestValue>bsRWIjHd2UBHd4TR0bUplbHwYqtkAxhh/7HBPJMSUro=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

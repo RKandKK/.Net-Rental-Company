@@ -82,13 +82,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\DataAccess\DataAccess.csproj">
+      <Project>{eacb573f-3d50-4dad-b835-5ebf4be24dd2}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Domain\Domain\Domain.csproj">
       <Project>{cf304fe3-bd11-4758-8f3c-c1f5ce97e221}</Project>
       <Name>Domain</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
-      <Project>{eacb573f-3d50-4dad-b835-5ebf4be24dd2}</Project>
-      <Name>DataAccess</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

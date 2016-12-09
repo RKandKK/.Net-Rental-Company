@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using Domain;
 using System.Windows.Media.Imaging;
 using System.Drawing;
-using System.Data;
 
 namespace DataAccess
 {

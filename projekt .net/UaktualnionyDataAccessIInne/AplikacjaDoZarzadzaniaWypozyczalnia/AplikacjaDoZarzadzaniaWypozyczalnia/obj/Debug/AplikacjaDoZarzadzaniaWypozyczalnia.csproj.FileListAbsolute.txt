@@ -289,8 +289,3 @@ C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessII
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.application
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.exe
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\Wypożycz.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\EntityFramework.xml
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\UserPanel.g.cs
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\AplikacjaDoZarzadzaniaWypozyczalnia\obj\Debug\UserPanel.baml

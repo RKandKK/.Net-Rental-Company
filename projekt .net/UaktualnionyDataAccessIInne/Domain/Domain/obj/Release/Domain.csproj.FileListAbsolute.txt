@@ -25,5 +25,6 @@ C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessII
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Release\Domain.pdb

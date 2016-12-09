@@ -92,4 +92,3 @@ C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessII
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.xml

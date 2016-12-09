@@ -66,25 +66,3 @@ C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessII
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Motor CF.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Motor Fireweed.jpeg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Motor Honda CB.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Motor Kawasaki H2.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Motor Kawasaki.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Quad Bashan.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Quad Kondor.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Quad Suzuki Z4.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Quad Varia 125.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Images\Quad Yamaha.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\DataAccess.dll.config
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\DataAccess.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\DataAccess.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Domain.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\EntityFramework.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\EntityFramework.SqlServer.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\Domain.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\EntityFramework.xml
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Release\EntityFramework.SqlServer.xml
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\obj\Release\DataAccess.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\obj\Release\DataAccess.pdb

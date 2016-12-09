@@ -37,7 +37,7 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
             if (verification())
             {
                 User klient;
-                if ((klient=vm.UserRepository.UsersWithLogin(textBoxPESEL.Text)) != null)
+                if ((klient=vm.UserRepository.UsersWithPesel(textBoxPESEL.Text)) != null)
                 {
                     IList<Reservation> rezerwacje;
                     if ((rezerwacje = vm.ReservationsRepository.ReservationsOfVehicleByUser(klient, vm.SelectedVehicle)).Count>0)

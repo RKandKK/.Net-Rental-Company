@@ -100,25 +100,3 @@ C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessII
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\DataAccess\obj\Debug\DataAccess.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Motor CF.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Motor Fireweed.jpeg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Motor Honda CB.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Motor Kawasaki H2.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Motor Kawasaki.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Quad Bashan.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Quad Kondor.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Quad Suzuki Z4.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Quad Varia 125.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Images\Quad Yamaha.jpg
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\DataAccess.dll.config
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\DataAccess.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\DataAccess.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Domain.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\EntityFramework.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\Domain.pdb
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\EntityFramework.xml
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\obj\Debug\DataAccess.dll
-C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\DataAccess\obj\Debug\DataAccess.pdb

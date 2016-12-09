@@ -49,19 +49,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PZJFeOrwgW5FCEg6BfDyfLmwjSwlgG+KDkPwIuNY9wQ=</dsig:DigestValue>
+        <dsig:DigestValue>hyukUAly9ICHWOypXq6DTXCGl0zJuPRHdIvaV8uiSvU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Domain.dll" size="9728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Domain.dll" size="9216">
       <assemblyIdentity name="Domain" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uhLViTUXiqL4p6i/GgEGVM6nP5ButslqpHBXncD5WFs=</dsig:DigestValue>
+        <dsig:DigestValue>9n1kLngH2jMCjcKXdg2czbKNtg78zazP/UW6xRhmJTY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,18 +78,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="621264">
-      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ob9snjgg6D9D6fIN19mwozYqkxRvCv4LEzAYXi1RsMs=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wypożycz.exe" size="1047552">
       <assemblyIdentity name="Wypożycz" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -97,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dVEBiXZQ5mM32vF9Cmk4rj76cveB+Cq5vG/BWleC8fo=</dsig:DigestValue>
+        <dsig:DigestValue>PC6Q+YBNJ6BufYDrTBcPckEPzTHT/SmUq4Ze37NlKRo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -329,13 +317,13 @@
       <dsig:DigestValue>Bx4J8ZWLp74wPwcXY8pBnarT0UJz5nQlKkfeqsgxYuA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Wypożycz.exe.config" size="1011">
+  <file name="Wypożycz.exe.config" size="1013">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hlnfwMvL/zT+783ZKL8Yj5ccwbl7ziKSZgggAMNuMLc=</dsig:DigestValue>
+      <dsig:DigestValue>8V/rPeRDwBRyLU8F3H3dZkmEKnL5APaFet7T2ztZnsY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

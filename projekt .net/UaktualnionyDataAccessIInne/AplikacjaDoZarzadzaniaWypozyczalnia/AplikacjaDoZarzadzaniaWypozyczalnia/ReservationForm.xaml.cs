@@ -42,15 +42,15 @@ namespace AplikacjaDoZarzadzaniaWypozyczalnia
                         MessageBox.Show(String.Format("Dokonano zamówienia na nazwisko {0} {1}, PESEL: {2}. Koszt: {3}zł", textBoxImie.Text,
                         textBoxNazwisko.Text, textBoxPESEL.Text, (int)TillPicker.Value.Value.Subtract(SincePicker.Value.Value).TotalHours * vm.SelectedVehicle.PricePerHour));
 
-                        //if (vm.UserRepository.IsUserInDatabase(textBoxPESEL.Text))
-                        //{
-                        //    vm.ReservationsRepository.AddReservation(vm.SelectedVehicle, vm.UserRepository.UsersWithPesel(textBoxPESEL.Text), SincePicker.Value.Value, TillPicker.Value.Value);
-                        //}
-                        //else
-                        //{
-                        //    vm.UserRepository.AddUser(textBoxImie.Text, textBoxNazwisko.Text, textBoxPESEL.Text);
-                        //    vm.ReservationsRepository.AddReservation(vm.SelectedVehicle, vm.UserRepository.UsersWithPesel(textBoxPESEL.Text), SincePicker.Value.Value, TillPicker.Value.Value);
-                        //}
+                        if (vm.UserRepository.IsUserInDatabase(textBoxPESEL.Text))
+                        {
+                            vm.ReservationsRepository.AddReservation(vm.SelectedVehicle, vm.UserRepository.UsersWithPesel(textBoxPESEL.Text), SincePicker.Value.Value, TillPicker.Value.Value);
+                        }
+                        else
+                        {
+                            vm.UserRepository.AddUser(textBoxImie.Text, textBoxNazwisko.Text, textBoxPESEL.Text);
+                            vm.ReservationsRepository.AddReservation(vm.SelectedVehicle, vm.UserRepository.UsersWithPesel(textBoxPESEL.Text), SincePicker.Value.Value, TillPicker.Value.Value);
+                        }
                         Close();
                     }
                 }

@@ -53,4 +53,3 @@ D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
-D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\Domain\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

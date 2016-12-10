@@ -51,7 +51,6 @@ D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaW
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.dll
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Domain.pdb
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\DataAccess.pdb
-D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.xml
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
 D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Images\Motor CF.jpg
@@ -93,3 +92,19 @@ C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessII
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.dll
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\obj\Debug\Testy.pdb
 C:\Users\asd\Documents\.Net-Rental-Company\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\EntityFramework.xml
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\.Net project\projekt .net\UaktualnionyDataAccessIInne\AplikacjaDoZarzadzaniaWypozyczalnia\Testy\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
